@@ -1,0 +1,98 @@
+/* Codingan CSS, Desain saja sebagus mungkin :v */
+
+.section-content {
+    background-color:gray;
+    color: white;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    margin: 0;
+    font-size: 24px;
+}
+
+.section-content>h2 {
+    margin: 0;
+    font-size: 24px;
+}
+
+.section-content>h7 {
+    font-size: medium;
+    text-align: center;
+    padding: 12px;
+    margin: 10px;
+}
+
+.deskripsi {
+    font-size: 12px;
+    word-spacing: 2px;
+    color: black;
+}
+
+body {
+    font-family: Arial, 'Times New Roman', Times, sans-serif, serif;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    color: white;
+    background-color: gray
+}
+
+.buttons {
+    display: flex;
+    padding: 5px;
+    justify-content: space-between;
+    margin-top: 20px;
+    border-radius: 100%;
+}
+
+.green-button {
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4%;
+}
+
+.red-button {
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4%;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+#luas-result, #keliling-result {
+    display: none;
+}
+
+#luas-button:focus, #keliling-button:focus {
+    outline: none;
+    box-shadow: 0 0 5px 1px lightgreen;
+}
+
+#clear-button:focus {
+    outline: none;
+    box-shadow: 0 0 5px 1px red;
+}
