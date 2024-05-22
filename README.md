@@ -1,3 +1,5 @@
+ꦱꦸꦒꦼꦁꦫꦮꦸꦃ - Sugeng Rawuh
+
 Halo selamat datang di Mini Project RevoU 
 Untuk tugas yang diberikan, ialah membuat sebuah website penghitung Luas dan Keliling segitiga (Kalculator)
 
