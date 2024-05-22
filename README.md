@@ -1,7 +1,7 @@
 ꦱꦸꦒꦼꦁꦫꦮꦸꦃ - Sugeng Rawuh
 
 Halo selamat datang di Mini Project RevoU 
-Untuk tugas yang diberikan, ialah membuat sebuah website penghitung Luas dan Keliling segitiga (Kalculator)
+Untuk tugas yang diberikan, ialah membuat sebuah website penghitung Luas dan Keliling segitiga (Kalkulator)
 
 Untuk fitur pada aplikasi ini terdapat 2 hal:
 1. Penghitungan Luas Segitiga
